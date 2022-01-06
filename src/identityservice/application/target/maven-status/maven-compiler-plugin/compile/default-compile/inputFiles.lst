@@ -1,0 +1,17 @@
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\command\LoginCommand.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\ResetPasswordUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\RegisterUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\account\command\CreateAccountCommand.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\service\AccountEndpointService.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\LoginUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\port\api\AuthenticationEndpoint.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\port\persistence\AccountRepository.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\command\RegisterCommand.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\profile\GetCurrentProfileUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\service\AuthenticationEndpointService.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\account\CreateAccountUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\account\query\MyProfileQuery.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\ForgotPasswordUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\port\api\AccountEndpoint.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\authentication\LogoutUseCase.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\src\identityservice\application\src\main\java\io\scalaway\identityservice\application\usecase\account\RemoveAccountUseCase.java

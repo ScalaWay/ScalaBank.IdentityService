@@ -1,0 +1,12 @@
+# the name of the Kubernetes deployment you want to put on development mode
+name: identity-service-deployment
+# https://okteto.com/docs/reference/development-environment/
+image: okteto/maven:3
+command: bash
+volumes:
+  - /root/.m2
+sync:
+  - .:/usr/src/app
+forward:
+  - 8090:8090
+  - 5005:5005

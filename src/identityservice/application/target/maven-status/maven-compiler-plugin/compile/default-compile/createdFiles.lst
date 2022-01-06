@@ -1,0 +1,17 @@
+io\scalaway\identityservice\application\usecase\account\command\CreateAccountCommand.class
+io\scalaway\identityservice\application\usecase\authentication\command\LoginCommand.class
+io\scalaway\identityservice\application\usecase\account\query\MyProfileQuery.class
+io\scalaway\identityservice\application\usecase\authentication\ResetPasswordUseCase.class
+io\scalaway\identityservice\application\port\api\AuthenticationEndpoint.class
+io\scalaway\identityservice\application\port\api\AccountEndpoint.class
+io\scalaway\identityservice\application\port\persistence\AccountRepository.class
+io\scalaway\identityservice\application\service\AuthenticationEndpointService.class
+io\scalaway\identityservice\application\usecase\account\CreateAccountUseCase.class
+io\scalaway\identityservice\application\service\AccountEndpointService.class
+io\scalaway\identityservice\application\usecase\account\RemoveAccountUseCase.class
+io\scalaway\identityservice\application\usecase\authentication\LogoutUseCase.class
+io\scalaway\identityservice\application\usecase\authentication\ForgotPasswordUseCase.class
+io\scalaway\identityservice\application\usecase\authentication\LoginUseCase.class
+io\scalaway\identityservice\application\usecase\authentication\RegisterUseCase.class
+io\scalaway\identityservice\application\usecase\authentication\command\RegisterCommand.class
+io\scalaway\identityservice\application\usecase\profile\GetCurrentProfileUseCase.class
