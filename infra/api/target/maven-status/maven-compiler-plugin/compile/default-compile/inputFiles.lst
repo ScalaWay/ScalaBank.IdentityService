@@ -1,0 +1,12 @@
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\dto\AccountOutput.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\dto\AccountProfileOutput.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\security\JwtUtils.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\controller\ProfileController.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\security\SecurityConfiguration.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\config\WebConfiguration.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\config\ApplicationConfiguration.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\controller\AuthenticationController.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\IdentityServiceApplication.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\security\JwtTokenFilter.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\controller\AccountController.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\api\src\main\java\io\scalaway\identity\api\security\HttpUtils.java

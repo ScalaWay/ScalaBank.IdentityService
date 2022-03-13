@@ -7,21 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="model" />
         <module name="api" />
         <module name="application" />
         <module name="sqlserver" />
         <module name="inmemory" />
-        <module name="domain" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api" target="11" />
       <module name="application" target="11" />
-      <module name="data" target="11" />
-      <module name="domain" target="11" />
+      <module name="data" target="1.5" />
+      <module name="identity-domain" target="11" />
+      <module name="identity-infra" target="11" />
       <module name="identityservice" target="11" />
       <module name="inmemory" target="11" />
+      <module name="model" target="11" />
+      <module name="ScalaBank.IdentityService" target="11" />
       <module name="sqlserver" target="11" />
+      <module name="wallet-infra" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

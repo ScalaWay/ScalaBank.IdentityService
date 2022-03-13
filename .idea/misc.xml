@@ -5,6 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/identity-service/pom.xml" />
         <option value="$PROJECT_DIR$/src/identityservice/pom.xml" />
+        <option value="$PROJECT_DIR$/infra/data/pom.xml" />
+        <option value="$PROJECT_DIR$/infra/api/pom.xml" />
+        <option value="$PROJECT_DIR$/infra/persistence/sqlserver/pom.xml" />
+        <option value="$PROJECT_DIR$/infra/persistence/inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/domain/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
