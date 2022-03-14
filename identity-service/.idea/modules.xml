@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ScalaBank.IdentityService.iml" filepath="$PROJECT_DIR$/.idea/ScalaBank.IdentityService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infra/api/api.iml" filepath="$PROJECT_DIR$/infra/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/application/application.iml" filepath="$PROJECT_DIR$/domain/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/identity-domain.iml" filepath="$PROJECT_DIR$/domain/identity-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infra/identity-infra.iml" filepath="$PROJECT_DIR$/infra/identity-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/identity-service/identityservice.iml" filepath="$PROJECT_DIR$/src/identity-service/identityservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infra/persistence/inmemory/inmemory.iml" filepath="$PROJECT_DIR$/infra/persistence/inmemory/inmemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/model/model.iml" filepath="$PROJECT_DIR$/domain/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infra/persistence/sqlserver/sqlserver.iml" filepath="$PROJECT_DIR$/infra/persistence/sqlserver/sqlserver.iml" />
+    </modules>
+  </component>
+</project>

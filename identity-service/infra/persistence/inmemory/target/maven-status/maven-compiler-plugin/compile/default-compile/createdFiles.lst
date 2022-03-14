@@ -1,0 +1,2 @@
+io\scalaway\identity\data\inmemory\model\AccountDetails.class
+io\scalaway\identity\data\inmemory\repository\InMemoryAccountRepository.class

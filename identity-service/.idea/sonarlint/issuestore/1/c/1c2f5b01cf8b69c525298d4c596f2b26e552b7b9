@@ -1,0 +1,8 @@
+
+o	java:S116""URename this field "REALM_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ÷¶Æùÿÿÿÿ
+<
+java:S1170""!Make this final field static too.(Ÿ÷¶Æùÿÿÿÿ
+B
+java:S1602U",Remove useless curly braces around statement(þÀÍ»
+I
+java:S1068"".Remove this unused "REALM_NAME" private field.(Ÿ÷¶Æùÿÿÿÿ

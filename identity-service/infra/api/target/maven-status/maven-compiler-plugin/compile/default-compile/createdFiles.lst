@@ -1,0 +1,13 @@
+io\scalaway\identity\api\security\SecurityConfiguration.class
+io\scalaway\identity\api\config\WebConfiguration.class
+io\scalaway\identity\api\config\WebConfiguration$1.class
+io\scalaway\identity\api\dto\AccountProfileOutput.class
+io\scalaway\identity\api\config\ApplicationConfiguration.class
+io\scalaway\identity\api\controller\AuthenticationController.class
+io\scalaway\identity\api\IdentityServiceApplication.class
+io\scalaway\identity\api\dto\AccountOutput.class
+io\scalaway\identity\api\controller\AccountController.class
+io\scalaway\identity\api\security\HttpUtils.class
+io\scalaway\identity\api\controller\ProfileController.class
+io\scalaway\identity\api\security\JwtUtils.class
+io\scalaway\identity\api\security\JwtTokenFilter.class

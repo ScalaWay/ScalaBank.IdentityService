@@ -1,0 +1,3 @@
+io\scalaway\identity\data\sqlserver\repository\SqlAccountRepository.class
+io\scalaway\identity\data\sqlserver\model\AccountEntity.class
+io\scalaway\identity\data\sqlserver\repository\AccountJpaRepository.class

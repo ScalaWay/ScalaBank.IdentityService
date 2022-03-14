@@ -1,0 +1,3 @@
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\persistence\sqlserver\src\main\java\io\scalaway\identity\data\sqlserver\repository\SqlAccountRepository.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\persistence\sqlserver\src\main\java\io\scalaway\identity\data\sqlserver\repository\AccountJpaRepository.java
+C:\_dev\ScalaBank\ScalaBank.IdentityService\infra\persistence\sqlserver\src\main\java\io\scalaway\identity\data\sqlserver\model\AccountEntity.java
